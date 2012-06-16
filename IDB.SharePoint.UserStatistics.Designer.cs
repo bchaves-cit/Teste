@@ -9,6 +9,7 @@
 //------------------------------------------------------------------------------
 // testando a alteração do git
 // Teste de commit depois de alterado.
+//Mais um testes
 // Mais um teste Lucas
 namespace IDB.SharePoint.UserStatistics.Resources {
     using System;
