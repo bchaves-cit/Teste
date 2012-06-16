@@ -7,6 +7,7 @@
 //     the code is regenerated.
 // </auto-generated>
 //------------------------------------------------------------------------------
+// testando a alteração do git
 // Teste de commit depois de alterado.
 namespace IDB.SharePoint.UserStatistics.Resources {
     using System;
