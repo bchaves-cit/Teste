@@ -11,6 +11,10 @@
 // Teste de commit depois de alterado.
 //Mais um testes
 // Mais um teste Lucas
+
+
+//teste com elmer e leleco
+
 namespace IDB.SharePoint.UserStatistics.Resources {
     using System;
     
